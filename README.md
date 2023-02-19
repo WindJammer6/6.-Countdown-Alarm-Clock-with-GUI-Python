@@ -8,7 +8,7 @@ Making the alarm clock with GUI was my initial idea as most of the Alarm Clock p
 so that working up to this one would be more progressive and not a big stretch. 
 
 However, a big difference is that this acts more like a countdown alarm clock, which the user inputs number of hours, mins, secs and the clock will just countdown until zero seconds, 
-insted of counting up till the datetime the user has set which is how my fifth alarm clock (no GUI works). I wanted to make it work in a similar way, but I decided to
+insted of counting up till the datetime the user has set which is how my fifth project's alarm clock (no GUI) works. I wanted to make it work in a similar way, but I decided to
 move on when I thought it might too long for me to figure out if I attempt to do so.
 
 Additionally I wanted at least display the time based on the user's hours, mins, secs input where the clock will set off, but I havent managed to do that as well :weary: so 
