@@ -11,15 +11,15 @@ However, a big difference is that this acts more like a countdown alarm clock, w
 insted of counting up till the datetime the user has set which is how my fifth project's alarm clock (no GUI) works. I wanted to make it work in a similar way, but I decided to
 move on when I thought it might too long for me to figure out if I attempt to do so.
 
-Additionally I wanted at least display the time based on the user's hours, mins, secs input where the clock will set off, but I havent managed to do that as well :weary: so 
-at least it becomes more user-friendly. Maybe another time.
+Additionally I wanted to at least display the time (in 24 hrs) based on the user's hours, mins, secs input where the clock will set off, but I havent managed to do that as well :weary: so 
+at least it might look more user-friendly. Maybe another time.
 
 Even though Alarm Clock and Alarm Clock with GUI both aims to work the same, their code looks vastly different due to the need to incorporte widgets from the
 tkinter library such as Label, Button, OptionMenu, Checkbox to make stuff appear in the app, and not as simple as typing print. Incorporating commands for widgets 
 are also completely new and not the same as self-defining functions, and self-defining functions can also and will be what the widgets execute as commands.
 
 Took me a while to get used to tkinter library due to the vastly different commands and formatting. (the considerations of foreground and background colouring, as well as
-position and size of the widgets in the app on the screen.
+position and size of the widgets in the app on the screen).
 
 <br>
 
