@@ -320,7 +320,7 @@ To be improved:
 * Flaw is that when set button is pushed, nothing happens, until the timer is up and the alarm sound starts playing. I believe it will be much more user-friendly if
 I am able to add a visual countdown timer on the app instead of just in the terminal which the ueser of the app will not be able to see, Showing the datetime when
 the timer will go off will make the app more user-friendly as well.
-* Swapping the clock button with a real-time counting up clock would be better, instead of clicking it whenever they need a time reference. Still hasnt figure that out... 
+* Swapping the clock button with a real-time counting up clock would be better, instead of clicking it whenever they need a time reference. Still haven't figure that out... 
 but should be definitely possible
 * Positioning of widgets are awkward as well, definitely ways to improve on the positioning.
 
